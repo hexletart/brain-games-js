@@ -4,4 +4,4 @@
 
 Файл hexlet-check.yml отвечает за запуск этих тестов - не удаляйте этот файл, не редактируйте его и не переименовывайте репозиторий.
 
-[![asciicast](https://asciinema.org/a/k3BzF7PaID32D0V4ZkOoKRiqQ.svg)](https://asciinema.org/a/k3BzF7PaID32D0V4ZkOoKRiqQ)
+https://asciinema.org/a/k3BzF7PaID32D0V4ZkOoKRiqQ
