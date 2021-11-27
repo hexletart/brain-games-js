@@ -1,3 +1,4 @@
+/* eslint-disable no-restricted-syntax */
 import readlineSync from 'readline-sync';
 import greeting from './cli.js';
 
