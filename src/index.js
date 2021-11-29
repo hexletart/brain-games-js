@@ -13,6 +13,7 @@ export default (descr, gameData) => {
 Let's try again, ${name}!`;
       return console.log(failed);
     }
+    console.log('Correct!');
   }
   return console.log(`Congratulations, ${name}!`);
 };
