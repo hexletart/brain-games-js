@@ -1,18 +1,11 @@
 import compose from '../index.js';
+import { randomNum, randomOper } from '../random-items.js';
 
 export default (iterations) => {
-  const randomNum = () => Math.floor(Math.random() * 100);
-
-  const randomOper = () => {
-    const operators = ['+', '-', '*'];
-    const pointer = Math.floor(Math.random() * 3);
-    return operators[pointer];
-  };
-
-  const expression = () => {
+  const expression = (range) => {
     let result;
-    const valueA = randomNum();
-    const valueB = randomNum();
+    const valueA = randomNum(range);
+    const valueB = randomNum(range);
     const sign = randomOper();
     const exprInString = `${valueA} ${sign} ${valueB}`;
     switch (sign) {
@@ -34,7 +27,7 @@ export default (iterations) => {
   const task = 'What is the result of the expression?';
   const questChain = [];
   for (let i = 1; i <= iterations; i += 1) {
-    questChain.push(expression());
+    questChain.push(expression(100));
   }
   return compose(task, questChain);
 };
