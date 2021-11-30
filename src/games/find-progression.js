@@ -15,7 +15,7 @@ export default (iterations) => {
     const sought = result[soughtFor];
     result[soughtFor] = '..';
     const resultInString = result.join(' ');
-    return [resultInString, sought];
+    return [resultInString, String(sought)];
   };
 
   const task = 'What number is missing in the progression?';
