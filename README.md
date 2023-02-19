@@ -11,7 +11,7 @@ Brain-calc
 [![asciicast](https://asciinema.org/a/560901.svg)](https://asciinema.org/a/560901)
 Brain-gcd
 [![asciicast](https://asciinema.org/a/560902.svg)](https://asciinema.org/a/560902)
-Brain-progression
+brain-progression
 [![asciicast](https://asciinema.org/a/560906.svg)](https://asciinema.org/a/560906)
-Brain-prime
+brain-prime
 [![asciicast](https://asciinema.org/a/560912.svg)](https://asciinema.org/a/560912)
