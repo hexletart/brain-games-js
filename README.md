@@ -4,7 +4,7 @@
 [![github-check](https://github.com/hexletart/frontend-project-lvl1/workflows/github-check/badge.svg)](https://github.com/hexletart/frontend-project-lvl1/actions)
 
 Brain-games
-[![asciicast](https://asciinema.org/a/560895.svg)](https://asciinema.org/a/560895)
+[![asciicast](https://asciinema.org/a/560942.svg)](https://asciinema.org/a/560942)
 Brain-even
 [![asciicast](https://asciinema.org/a/560896.svg)](https://asciinema.org/a/560896)
 Brain-calc
