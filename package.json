@@ -1,5 +1,5 @@
 {
-  "name": "@hexlet/code",
+  "name": "frontend-project-lvl1",
   "version": "1.0.0",
   "type": "module",
   "description": "my first frontend project",
@@ -8,8 +8,9 @@
     "brain-even": "bin/brain-even.js",
     "brain-calc": "bin/brain-calc.js",
     "brain-gcd": "bin/brain-gcd.js",
-    "brain-progression": "bin/brain-progression.js",
-    "brain-prime": "bin/brain-prime.js"
+    "brain-prime": "bin/brain-prime.js",
+    "brain-progression": "bin/brain-progression.js"
+
   },
   "main": "index.js",
   "scripts": {
