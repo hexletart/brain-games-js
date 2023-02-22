@@ -10,14 +10,19 @@ Mind games
 
 **Description:**
 
-The project demonstrates the page layout of the "Music Box" music portal, which is also adapted to the mobile screen resolution. The portal provides access to online listening to music.
+The project is a set of five console games built on the principle of popular mobile applications for brain training.
+
+- Calculator. Arithmetic expressions to be evaluated.
+- Progression. Search for missing numbers in a sequence of numbers.
+- Definition of an even number.
+- Finding the Greatest Common Divisor.
+- Definition of a prime number.
 
 **Technology stack:**
 
-HTML, SASS, CSS, Surge, Git, GitHub, GitHub Actions (CI), Stylelint, Surge.
+JavaScript, Git, GitHub, GitHub Actions (CI), ESLint, ReadlineSync, CodeClimate, Asciinema.
 
 **Demonstration:**
-
 
 Brain-games
 [![asciicast](https://asciinema.org/a/560942.svg)](https://asciinema.org/a/560942)
